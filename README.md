@@ -1,7 +1,7 @@
 <h1 align="center">Deivid Alfonso Beise</h1>
 
 <p align="center">
-  <b>Frontend Developer</b>
+  <b>Fullstack developer em construção</b>
 </p>
 
 <p align="center">
@@ -23,11 +23,13 @@ Atualmente cursando Engenharia de Software na Universidade Federal do Pampa (Uni
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,css,tailwind,python,rust,java,ts" />
+  <img src="https://skillicons.dev/icons?i=react,css,tailwind,python,rust,java,ts,figma,spring,postgres,vite" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
   <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
 </p>
 
 ## GitHub Stats
