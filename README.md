@@ -18,7 +18,7 @@
 
 ## About
 
-Atualmente cursando Engenharia de Software na Universidade Federal do Pampa (Unipampa), desenvolvendo como bolsista automações de teste, trabalhando com React, Typescript.
+Atualmente cursando Engenharia de Software na Universidade Federal do Pampa (Unipampa), desenvolvendo como bolsista automações de teste, trabalhando com React, Typescript. Mas pessoalmente trabalhando com um projeto fullstack na temática kanban
 
 ## Tech Stack
 
