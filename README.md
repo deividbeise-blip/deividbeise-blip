@@ -44,7 +44,7 @@ Atualmente cursando Engenharia de Software na Universidade Federal do Pampa (Uni
 
 ## Featured Projects
 
-- **Nome do Projeto 1** — breve descrição · [live](https://link-do-projeto.com)
+- **Kanban Backend  1** — breve descrição · [live](https://github.com/deividbeise-blip/Kanban-Backend)
 - **Nome do Projeto 2** — breve descrição · [live](https://link-do-projeto.com)
 - **Nome do Projeto 3** — breve descrição · [live](https://link-do-projeto.com)
 
