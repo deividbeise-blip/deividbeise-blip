@@ -23,7 +23,7 @@ Atualmente cursando Engenharia de Software na Universidade Federal do Pampa (Uni
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,css,tailwind,python,rust,java,ts,figma,spring,postgres,vite" />
+  <img src="https://skillicons.dev/icons?i=react,css,tailwind,java,ts,figma,spring,postgres,vite" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white" />
